@@ -1,5 +1,5 @@
 ### 이름은 본인의 이름으로 commit 해주세요 email은 따로 제한하지 않겠습니다
-- git config user.name "너의 이름"
+- git config user.name "본인의 이름"
 
 ### branch는 개인의 이름/업무로 하도록 하겠습니다.
 
